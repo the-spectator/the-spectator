@@ -1,6 +1,8 @@
 ### :wave: Hi there!
 #### I am Akshay Birajdar. I am a Full Stack developer from :india:
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-spectator&show_icons=true" alt="Akshay Birajdar" /></p>
+
 <p align="center">
 <a href= "https://dev.to/thespectator"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/akshayb1/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
